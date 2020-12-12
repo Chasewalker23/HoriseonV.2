@@ -14,3 +14,20 @@ I went from having this...
 ![](assets/images/css3.PNG)
 ![](assets/images/css4.PNG)
 
+To the new and fresh code that you can find at index.html or style.css.
+
+# Whats is new?
+
+Well... 
+* I added a title for the page, aswell a favicon.
+* Change to semantic tags.
+* Avoid repetition at the css page.
+* Add comments to separate the places on the page.
+* I fixed links that were not working before.
+* Stop the content from getting out of the boxes when the page gets shrink.
+* Centered and make it readable more easier.
+
+# In other words....
+
+This was a project that made me realize that organization in our codes is important. avoid repetition, is important. Semantic tags ARE important. And even if your code works, that does not mean, that it works, in the way that it should be.
+
